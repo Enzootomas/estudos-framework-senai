@@ -1,4 +1,5 @@
-# 📚 Estudos Framework SENAI
+# 📚 Frontend Learning Hub
+
 
 > Repositório dedicado aos meus estudos de **Front-end**, reunindo resumos das aulas, anotações, materiais de apoio e projetos desenvolvidos na disciplina de **Frameworks Front-end**.
 
