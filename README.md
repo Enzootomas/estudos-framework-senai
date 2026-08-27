@@ -1,13 +1,12 @@
 # 📚 Frontend Learning Hub
 
-
-> Repositório dedicado aos meus estudos de **Front-end**, reunindo resumos das aulas, anotações, materiais de apoio e projetos desenvolvidos na disciplina de **Frameworks Front-end**.
+> Repositório dedicado aos meus estudos de **Front-end**, reunindo resumos das aulas, materiais de apoio e projetos práticos desenvolvidos na disciplina de **Frameworks Front-end**.
 
 ---
 
 ## 🎯 Objetivo
 
-Organizar o conteúdo estudado, facilitar revisões e documentar minha evolução no desenvolvimento Front-end ao longo da disciplina.
+Organizar os conteúdos estudados durante o semestre, facilitar revisões e documentar minha evolução no desenvolvimento Front-end por meio de resumos, materiais e projetos práticos.
 
 ---
 
@@ -35,7 +34,7 @@ frontend-learning-hub/
     └── Aula-04-Consumindo-APIs-no-Front-end.pdf
 ```
 
-Cada pasta representa uma aula e contém um resumo em **Markdown (.md)** com os principais conceitos estudados e o material utilizado em aula.
+Cada pasta representa uma aula e contém um resumo em **Markdown (`.md`)** com os principais conceitos estudados, além do material utilizado em aula.
 
 ---
 
@@ -52,22 +51,39 @@ Cada pasta representa uma aula e contém um resumo em **Markdown (.md)** com os 
 
 ## 🚀 Projetos da Disciplina
 
-Projetos práticos desenvolvidos durante as aulas de **Frameworks Front-end**.
+Projetos e atividades práticas desenvolvidos durante a disciplina de **Frameworks Front-end**.
 
-| #  | Aula    | Projeto             | Repositório                                                        | Deploy        | Tecnologia              |
-| -- | ------- | ------------------- | ------------------------------------------------------------------ | ------------- | ----------------------- |
-| 01 | Aula 01 | Vanilla JS          | [🔗 Repositório](https://github.com/Enzootomas/projeto-vanilla.git)         | 🌐 Ver online | HTML / CSS / JavaScript |
-| 02 | Aula 02 | Projeto React       | [🔗 Repositório](https://github.com/Enzootomas/projeto-copia-react.git)      | 🌐 Ver online | React                   |
-| 03 | Aula 03 | Quiz React          | [🔗 Repositório](https://github.com/Enzootomas/projeto-react-node.git)         | 🌐 Ver online | React                   |
-| 04 | Aula 03 | Vue Project         | [🔗 Repositório](https://github.com/Enzootomas/projeto-vue.git)        | 🌐 Ver online | Vue.js                  |
-| 05 | Aula 03 | Meu App Angular     | [🔗 Repositório](https://github.com/Enzootomas/projeto-angular.git)    | 🌐 Ver online | Angular                 |
-| 06 | Aula 03 | Meu Projeto Next.js | [🔗 Repositório](https://github.com/Enzootomas/meu-projeto-next.js.git) | 🌐 Ver online | Next.js                 |
+| #  | Aula    | Projeto               | Repositório                                                                    | Tecnologia              |
+| -- | ------- | --------------------- | ------------------------------------------------------------------------------ | ----------------------- |
+| 01 | Aula 01 | Vanilla JS            | [🔗 Repositório](https://github.com/Enzootomas/projeto-vanilla)                | HTML / CSS / JavaScript |
+| 02 | Aula 02 | Projeto React         | [🔗 Repositório](https://github.com/Enzootomas/projeto-copia-react)            | React                   |
+| 03 | Aula 03 | Projeto React         | [🔗 Repositório](https://github.com/Enzootomas/projeto-react-node)             | React                   |
+| 04 | Aula 03 | Projeto Vue           | [🔗 Repositório](https://github.com/Enzootomas/projeto-vue)                    | Vue.js                  |
+| 05 | Aula 03 | Projeto Angular       | [🔗 Repositório](https://github.com/Enzootomas/projeto-angular)                | Angular                 |
+| 06 | Aula 03 | Projeto Next.js       | [🔗 Repositório](https://github.com/Enzootomas/meu-projeto-next.js)            | Next.js                 |
+| 07 | Aula 04 | API Projects Analysis | [🔗 Repositório](https://github.com/Enzootomas/frontend-api-projects-analysis) | APIs REST / Front-end   |
+
+---
+
+## 🔌 API Projects Analysis
+
+Na **Aula 04**, foi realizada uma atividade de pesquisa e análise de projetos disponíveis no GitHub que utilizam APIs.
+
+O projeto contém uma análise de 10 aplicações, identificando:
+
+* Framework ou biblioteca utilizada;
+* API consumida;
+* Finalidade da aplicação;
+* Repositório original;
+* Principais conceitos relacionados ao consumo de APIs.
+
+➡️ [**Acessar Frontend API Projects Analysis**](https://github.com/Enzootomas/frontend-api-projects-analysis)
 
 ---
 
 ## 🛠️ Tecnologias
 
-As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
+As tecnologias e ferramentas são adicionadas conforme forem estudadas durante o semestre.
 
 * HTML
 * CSS
@@ -79,7 +95,10 @@ As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
 * Node.js
 * Express.js
 * APIs REST
-* Git & GitHub
+* JSON
+* HTTP
+* Git
+* GitHub
 * Vercel
 * Render
 
@@ -89,13 +108,27 @@ As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
 
 Os projetos e materiais são versionados utilizando **Git** e armazenados no **GitHub**.
 
-Principais comandos utilizados:
+Alguns dos principais comandos utilizados durante as atividades:
 
 ```bash
+git status
 git add .
 git commit -m "mensagem do commit"
 git push origin main
 ```
+
+---
+
+## 📚 Organização dos Estudos
+
+O repositório funciona como uma base de consulta para acompanhar os conteúdos estudados durante a disciplina.
+
+Cada aula contém:
+
+* 📝 Resumo dos principais conceitos;
+* 📄 Material utilizado em aula;
+* 💻 Projetos e atividades práticas;
+* 🔗 Links para repositórios relacionados.
 
 ---
 
@@ -107,4 +140,4 @@ git push origin main
 
 ## 📌 Objetivo Final
 
-Construir uma base sólida de conhecimento em **Front-end**, criando um repositório organizado que sirva como material de consulta para estudos, projetos e futuras oportunidades profissionais.
+Construir uma base sólida de conhecimento em **desenvolvimento Front-end**, mantendo um repositório organizado que registre minha evolução durante a disciplina e possa ser utilizado como material de consulta para estudos, projetos e futuras oportunidades profissionais.
