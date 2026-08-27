@@ -55,11 +55,11 @@ Projetos práticos desenvolvidos durante as aulas de **Frameworks Front-end**.
 
 | #  | Aula    | Projeto             | Repositório                                                        | Deploy        | Tecnologia              |
 | -- | ------- | ------------------- | ------------------------------------------------------------------ | ------------- | ----------------------- |
-| 01 | Aula 01 | Vanilla JS          | [🔗 Repositório](https://github.com/Enzootomas/vannila.js)         | 🌐 Ver online | HTML / CSS / JavaScript |
-| 02 | Aula 02 | Projeto React       | [🔗 Repositório](https://github.com/Enzootomas/projeto-react)      | 🌐 Ver online | React                   |
-| 03 | Aula 03 | Quiz React          | [🔗 Repositório](https://github.com/Enzootomas/quiz_react)         | 🌐 Ver online | React                   |
-| 04 | Aula 03 | Vue Project         | [🔗 Repositório](https://github.com/Enzootomas/vue-project)        | 🌐 Ver online | Vue.js                  |
-| 05 | Aula 03 | Meu App Angular     | [🔗 Repositório](https://github.com/Enzootomas/meu-app-angular)    | 🌐 Ver online | Angular                 |
+| 01 | Aula 01 | Vanilla JS          | [🔗 Repositório](https://github.com/Enzootomas/projeto-vanilla.git)         | 🌐 Ver online | HTML / CSS / JavaScript |
+| 02 | Aula 02 | Projeto React       | [🔗 Repositório](https://github.com/Enzootomas/projeto-copia-react.git)      | 🌐 Ver online | React                   |
+| 03 | Aula 03 | Quiz React          | [🔗 Repositório](https://github.com/Enzootomas/projeto-react-node.git)         | 🌐 Ver online | React                   |
+| 04 | Aula 03 | Vue Project         | [🔗 Repositório](https://github.com/Enzootomas/projeto-vue.git)        | 🌐 Ver online | Vue.js                  |
+| 05 | Aula 03 | Meu App Angular     | [🔗 Repositório](https://github.com/Enzootomas/projeto-angular.git)    | 🌐 Ver online | Angular                 |
 | 06 | Aula 03 | Meu Projeto Next.js | [🔗 Repositório](https://github.com/Enzootomas/meu-projeto-nextjs) | 🌐 Ver online | Next.js                 |
 
 ---
