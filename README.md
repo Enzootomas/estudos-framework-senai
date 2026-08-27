@@ -62,22 +62,7 @@ Projetos e atividades práticas desenvolvidos durante a disciplina de **Framewor
 | 05 | Aula 03 | Projeto Angular       | [🔗 Repositório](https://github.com/Enzootomas/projeto-angular)                | Angular                 |
 | 06 | Aula 03 | Projeto Next.js       | [🔗 Repositório](https://github.com/Enzootomas/meu-projeto-next.js)            | Next.js                 |
 | 07 | Aula 04 | API Projects Analysis | [🔗 Repositório](https://github.com/Enzootomas/frontend-api-projects-analysis) | APIs REST / Front-end   |
-
----
-
-## 🔌 API Projects Analysis
-
-Na **Aula 04**, foi realizada uma atividade de pesquisa e análise de projetos disponíveis no GitHub que utilizam APIs.
-
-O projeto contém uma análise de 10 aplicações, identificando:
-
-* Framework ou biblioteca utilizada;
-* API consumida;
-* Finalidade da aplicação;
-* Repositório original;
-* Principais conceitos relacionados ao consumo de APIs.
-
-➡️ [**Acessar Frontend API Projects Analysis**](https://github.com/Enzootomas/frontend-api-projects-analysis)
+| 08 | Aula 04 | DateTime API Express  | [🔗 Repositório](https://github.com/Enzootomas/datetime-api-express)           | Node.js / Express.js    |
 
 ---
 
