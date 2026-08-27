@@ -14,7 +14,7 @@ Organizar o conteúdo estudado, facilitar revisões e documentar minha evoluçã
 ## 📁 Estrutura
 
 ```text
-estudos-framework-senai/
+frontend-learning-hub/
 │
 ├── README.md
 │
@@ -61,7 +61,7 @@ Projetos práticos desenvolvidos durante as aulas de **Frameworks Front-end**.
 | 03 | Aula 03 | Quiz React          | [🔗 Repositório](https://github.com/Enzootomas/projeto-react-node.git)         | 🌐 Ver online | React                   |
 | 04 | Aula 03 | Vue Project         | [🔗 Repositório](https://github.com/Enzootomas/projeto-vue.git)        | 🌐 Ver online | Vue.js                  |
 | 05 | Aula 03 | Meu App Angular     | [🔗 Repositório](https://github.com/Enzootomas/projeto-angular.git)    | 🌐 Ver online | Angular                 |
-| 06 | Aula 03 | Meu Projeto Next.js | [🔗 Repositório](https://github.com/Enzootomas/meu-projeto-nextjs) | 🌐 Ver online | Next.js                 |
+| 06 | Aula 03 | Meu Projeto Next.js | [🔗 Repositório](https://github.com/Enzootomas/meu-projeto-next.js.git) | 🌐 Ver online | Next.js                 |
 
 ---
 
